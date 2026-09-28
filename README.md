@@ -1,3 +1,9 @@
+## ⚠️ Observação
+
+Este projeto foi desenvolvido durante meus estudos de sistemas embarcados.
+
+Algumas funcionalidades ainda podem ser aprimoradas conforme avanço nos estudos de programação e Arduino. O objetivo é continuar evoluindo o projeto e aplicar novos conhecimentos nele.
+
 # 🌡️ Sistema de Acesso por Temperatura
 
 Projeto de um sistema de controle de acesso por temperatura desenvolvido no Tinkercad utilizando Arduino.
